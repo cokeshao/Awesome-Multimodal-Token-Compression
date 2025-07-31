@@ -1,6 +1,8 @@
 
 ## 2025
 
+*  [![Arxiv](https://img.shields.io/badge/arXiv-2025\.07-red)]() [![Star](https://img.shields.io/github/stars/dvlab-research/VisionThink.svg?style=social&label=Star)](https://github.com/dvlab-research/VisionThink) [VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning](https://arxiv.org/abs/2507.13348) [![Area](https://img.shields.io/badge/Image_LLM-purple)]() [![Type](https://img.shields.io/badge/Transformation--Based-green)]() [![Cost](https://img.shields.io/badge/Training--Based-yellow)]()
+*  [![Publish](https://img.shields.io/badge/ICCV-2025-blue)]() [![Star](https://img.shields.io/github/stars/dvlab-research/Lyra.svg?style=social&label=Star)](https://github.com/dvlab-research/Lyra)[Lyra: An Efficient and Speech-Centric Framework for Omni-Cognition](https://arxiv.org/abs/2412.09501)  [![Area](https://img.shields.io/badge/Image_LLM-purple)]() [![Type](https://img.shields.io/badge/Similarity--Based-green)]() [![Cost](https://img.shields.io/badge/Training--Free-yellow)]()
 *  [![Arxiv](https://img.shields.io/badge/arXiv-2025\.06-red)]() [![Star](https://img.shields.io/github/stars/Theia-4869/CDPruner.svg?style=social&label=Star)](https://github.com/Theia-4869/CDPruner) [Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs](https://arxiv.org/abs/2506.10967)
  [![Area](https://img.shields.io/badge/Image_LLM-purple)]()
 *  [![Arxiv](https://img.shields.io/badge/arXiv-2025\.06-red)]() [Generic Token Compression in Multimodal Large Language Models from an Explainability Perspective](https://arxiv.org/abs/2506.01097v1)

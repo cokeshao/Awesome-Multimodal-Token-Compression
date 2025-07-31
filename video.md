@@ -1,6 +1,7 @@
 
 ## 2025
 
+*  [![Publish](https://img.shields.io/badge/ICCV-2025-blue)]() [![Star](https://img.shields.io/github/stars/dvlab-research/LSDBench.svg?style=social&label=Star)](https://github.com/dvlab-research/LSDBench) [LSDBench: Long-video Sampling Dilemma Benchmark](https://arxiv.org/abs/2503.12496) [![Area](https://img.shields.io/badge/Video_LLM-purple)]() [![Type](https://img.shields.io/badge/Similarity--Based-green)]() [![Cost](https://img.shields.io/badge/Training--Free-yellow)]()
 *  [![Publish](https://img.shields.io/badge/ICCV-2025-blue)]() [![Star](https://img.shields.io/github/stars/HYUNJS/STTM.svg?style=social&label=Star)](https://github.com/HYUNJS/STTM) [Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs](https://arxiv.org/abs/2507.07990)
  [![Area](https://img.shields.io/badge/Video_LLM-purple)]() [![Type](https://img.shields.io/badge/Similarity--Based-green)]() [![Cost](https://img.shields.io/badge/Training--Free-yellow)]()
 *  [![Arxiv](https://img.shields.io/badge/arXiv-2025\.06-red)]() [![Star](https://img.shields.io/github/stars/HumanMLLM/LLaVA-Scissor.svg?style=social&label=Star)](https://github.com/HumanMLLM/LLaVA-Scissor) [LLaVA-Scissor: Token Compression with Semantic Connected Components for Video LLMs](https://www.arxiv.org/abs/2506.21862)

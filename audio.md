@@ -1,6 +1,7 @@
 
 ## 2025
 
+*  [![Publish](https://img.shields.io/badge/ICCV-2025-blue)]() [Lyra: An Efficient and Speech-Centric Framework for Omni-Cognition](https://arxiv.org/abs/2412.09501)  [![Area](https://img.shields.io/badge/Audio_LLM-purple)]() [![Type](https://img.shields.io/badge/Similarity--Based-green)]() [![Cost](https://img.shields.io/badge/Training--Free-yellow)]()
 *  [![Arxiv](https://img.shields.io/badge/arXiv-2025\.03-red)]() [Qwen2.5-Omni Technical Report](https://arxiv.org/pdf/2503.20215)
  [![Area](https://img.shields.io/badge/Audio_LLM-purple)]() [![Type](https://img.shields.io/badge/Transformation--Based-green)]() [![Cost](https://img.shields.io/badge/Training--Based-yellow)]()
 *  [![Arxiv](https://img.shields.io/badge/arXiv-2025\.03-red)]() [MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech Tokens](https://arxiv.org/abs/2503.11315v1)
