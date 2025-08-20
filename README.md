@@ -74,6 +74,7 @@ If you find our paper or this resource helpful, please consider cite:
     - [Primitive-Based Representations : 4D](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-transformer.md)
     - [Grid-Based Representations : 3D](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/vision-transformer.md)
     - [Grid-Based Representations : 4D](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-transformer.md)
+  
 **Please check out all the papers by selecting the sub-area you're interested in. On this main page, only papers released in the past 6 months are shown.**
 
 ---
