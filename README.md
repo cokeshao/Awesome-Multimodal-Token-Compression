@@ -1,14 +1,14 @@
 <div align=center>
 
 # Representation as Compression: A Survey of Neural Fitting-based Data Compression
-
+<!--
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![arXiv](https://img.shields.io/badge/arXiv-2507\.20198-red.svg)](https://arxiv.org/abs/2507.20198)
 [![Last Commit](https://img.shields.io/github/last-commit/cokeshao/Awesome-Multimodal-Token-Compression.svg?style=flat&color=orange)](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression)
 
 [[arXiv]](https://arxiv.org/abs/2507.20198) [[HuggingFace]](https://huggingface.co/papers/2507.20198) [[Database]](https://oasis-paddleboat-fc1.notion.site/when-tokens-talk-too-much-database)
-
+-->
 </div>
 
 > **When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios** [[arXiv]](https://arxiv.org/pdf/2507.20198)   
