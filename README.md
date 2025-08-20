@@ -12,7 +12,7 @@
 
 
 > **Representation as Compression: A Survey of Neural Fitting-based Data Compression** 
-> [Youneng Bao](https://cokeshao.github.io/)<sup>\*,1,2</sup>, [Yiping Liu](https://kd-tao.github.io/)<sup>\*,1,2</sup>, [YuLong Cheng](https://kejiazhang-robust.github.io/)<sup>3</sup>, [Sicheng Feng](https://fscdc.github.io/)<sup>2,4</sup>, [Mu Cai](https://pages.cs.wisc.edu/~mucai/)<sup>5</sup>, [Yuzhang Shang](https://42shawn.github.io/)<sup>6</sup>, [Haoxuan You](https://hxyou.github.io/)<sup>7</sup>, [Can Qin](https://canqin.tech/)<sup>8</sup>, [Yang Sui](https://eclipsess.github.io/yangsui.github.io/)<sup>9</sup>, [Huan Wang](https://huanwang.tech/)<sup>†,2</sup>
+> [Youneng Bao](https://cokeshao.github.io/)<sup>\*,1,2</sup>, [Yiping Liu](https://kd-tao.github.io/)<sup>\*,1,2</sup>, [YuLong Cheng](https://github.com/smileto1/)<sup>3</sup>, [Sicheng Feng](https://fscdc.github.io/)<sup>2,4</sup>, [Mu Cai](https://pages.cs.wisc.edu/~mucai/)<sup>5</sup>, [Yuzhang Shang](https://42shawn.github.io/)<sup>6</sup>, [Haoxuan You](https://hxyou.github.io/)<sup>7</sup>, [Can Qin](https://canqin.tech/)<sup>8</sup>, [Yang Sui](https://eclipsess.github.io/yangsui.github.io/)<sup>9</sup>, [Huan Wang](https://huanwang.tech/)<sup>†,2</sup>
 > 
 > <sup>1</sup>Zhejiang University, <sup>2</sup>Westlake University, <sup>3</sup>Xiamen University, <sup>4</sup>National University of Singapore, <sup>5</sup>University of Wisconsin-Madison, <sup>6</sup>University of Central Florida, <sup>7</sup>Columbia University, <sup>8</sup>Salesforce AI Research, <sup>9</sup>Rice University
 > 
