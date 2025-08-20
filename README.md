@@ -12,6 +12,7 @@
 </div>
 > **Representation as Compression: A Survey of Neural Fitting-based Data Compression**
 > [YouNeng Bao]<sup>\*,1,2</sup>, [YiPing Liu]<sup>\*,1,2</sup>,[YuLong Cheng](https://github.com/smileto1)<sup>\*,1,2</sup>
+> 
 <!--
 [Kejia Zhang](https://kejiazhang-robust.github.io/)<sup>3</sup>, [Sicheng Feng](https://fscdc.github.io/)<sup>2,4</sup>, [Mu Cai](https://pages.cs.wisc.edu/~mucai/)<sup>5</sup>, [Yuzhang Shang](https://42shawn.github.io/)<sup>6</sup>, [Haoxuan You](https://hxyou.github.io/)<sup>7</sup>, [Can Qin](https://canqin.tech/)<sup>8</sup>, [Yang Sui](https://eclipsess.github.io/yangsui.github.io/)<sup>9</sup>, [Huan Wang](https://huanwang.tech/)<sup>†,2</sup>
 -->
