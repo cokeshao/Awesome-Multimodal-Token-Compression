@@ -63,12 +63,17 @@ If you find our paper or this resource helpful, please consider cite:
 ## 📚 Contents
 
 - [Awesome Token Compression](#awesome-multimodal-token-compression)
-    - [Image LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/image-llm.md)
-    - [Video LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/video-llm.md)
-    - [Audio LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-llm.md)
-    - [Vision Transformer](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/vision-transformer.md)
-    - [Audio Transformer](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-transformer.md)
-
+    - [INR : 2D Image](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/image-llm.md)
+    - [INR : Video](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/video-llm.md)
+    - [INR : Audios](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-llm.md)
+    - [INR : 3D](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/vision-transformer.md)
+    - [INR : 4D](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-transformer.md)
+    - [Primitive-Based Representations : 2D Image](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/image-llm.md)
+    - [Primitive-Based Representations : Video](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/video-llm.md)
+    - [Primitive-Based Representations : 3D](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/vision-transformer.md)
+    - [Primitive-Based Representations : 4D](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-transformer.md)
+    - [Grid-Based Representations : 3D](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/vision-transformer.md)
+    - [Grid-Based Representations : 4D](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-transformer.md)
 **Please check out all the papers by selecting the sub-area you're interested in. On this main page, only papers released in the past 6 months are shown.**
 
 ---
