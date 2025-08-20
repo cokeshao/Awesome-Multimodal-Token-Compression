@@ -14,7 +14,7 @@
 
 
 > **Representation as Compression: A Survey of Neural Fitting-based Data Compression** 
-> [Youneng Bao](https://cokeshao.github.io/)<sup>1</sup>, [Yiping Liu](https://kd-tao.github.io/)<sup>2</sup>, [YuLong Cheng](https://github.com/smileto1/)<sup>2</sup>
+> [Youneng Bao](https://cokeshao.github.io/)<sup>1</sup>, [Yiping Liu](https://nouise.github.io/DD-RUO/)<sup>2</sup>, [YuLong Cheng](https://github.com/smileto1/)<sup>2</sup>
 > 
 > <sup>1</sup>City University of Hong Kong (CityUHK), <sup>2</sup>Harbin Institute of Technology, Shenzhen(HITSZ)
 > 
