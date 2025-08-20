@@ -18,7 +18,7 @@
 > 
 > <sup>1</sup>City University of Hong Kong (CityUHK), <sup>2</sup>Harbin Institute of Technology, Shenzhen(HITSZ)
 > 
-> \* Equal Contribution.  † Corresponding Author (wanghuan@westlake.edu.cn).
+
 
 ---
 
