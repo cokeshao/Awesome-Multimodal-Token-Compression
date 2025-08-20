@@ -34,7 +34,7 @@
 > - Ask for clarification about any content.
 
 ---
-
+<!--
 ## 🔥 News
 
 - **[2025.08.14]** ❗ Added [Recent Papers](#recent-papers-last-6-months), [Papers Published in Recent Conference/Journal](#published-in-recent-conferencejournal), and a [database](https://oasis-paddleboat-fc1.notion.site/when-tokens-talk-too-much-database) for quick-search.
@@ -59,7 +59,7 @@ If you find our paper or this resource helpful, please consider cite:
   year={2025}
 }
 ```
-
+-->
 ## 📚 Contents
 
 - [Awesome Token Compression](#awesome-multimodal-token-compression)
