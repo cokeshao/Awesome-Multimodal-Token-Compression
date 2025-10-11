@@ -35,6 +35,7 @@
 
 ## 🔥 News
 
+- **[2025.10.11]** Papers accepted by **NeurIPS'25** about MLLM token compression have been updated [here](#published-in-recent-conferencejournal). Congratulations! 🎉🎉🎉
 - **[2025.08.14]** ❗ Added [Recent Papers](#recent-papers-last-6-months), [Papers Published in Recent Conference/Journal](#published-in-recent-conferencejournal), and a [database](https://oasis-paddleboat-fc1.notion.site/when-tokens-talk-too-much-database) for quick-search.
 - **[2025.07.29]** The v1 survey is now published! We've also initialized the repository.
 
