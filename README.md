@@ -286,3 +286,9 @@ This repository is inspired by [Awesome-Efficient-Reasoning-Models](https://gith
 For questions, suggestions, or collaboration opportunities, please feel free to reach out:
 
 ✉️ Email:  [shaokele@gmail.com](mailto:shaokele@gmail.com) / [KD.TAO.CT@outlook.com](mailto:KD.TAO.CT@outlook.com)
+
+## ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=cokeshao/Awesome-Multimodal-Token-Compression&type=date&legend=top-left)](https://www.star-history.com/#cokeshao/Awesome-Multimodal-Token-Compression&type=date&legend=top-left)
+
+[**⬆ Back to top**](#awesome-multimodal-token-compression)
