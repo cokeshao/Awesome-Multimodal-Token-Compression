@@ -54,7 +54,7 @@ If you find our paper or this resource helpful, please consider cite:
 
 ```bibtex
 @article{shao2025tokens,
-  title={When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios},
+  title={When tokens talk too much: A survey of multimodal long-context token compression across images, videos, and audios},
   author={Shao, Kele and Tao, Keda and Zhang, Kejia and Feng, Sicheng and Cai, Mu and Shang, Yuzhang and You, Haoxuan and Qin, Can and Sui, Yang and Wang, Huan},
   journal={arXiv preprint arXiv:2507.20198},
   year={2025}
