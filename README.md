@@ -36,7 +36,7 @@
 ## 🔥 News
 
 - **[2026.02.22]** ⚠️⚠️⚠️ We are very fortunate that our article was reported by [机器之星](https://mp.weixin.qq.com/s/3Y4QNFV2wvsp_pv-habitg)!
-- **[2026.02.22]** Paper accepted by **ICLR 2026** could be checked in [here](#published-in-recent-conferencejournal), welcome contributions!
+- **[2026.02.22]** Paper accepted by **CVPR 2026** could be checked in [here](#published-in-recent-conferencejournal), welcome contributions!
 - **[2026.01.27]** Paper accepted by **EMNLP 2025** and **ICLR 2026** could be checked in [here](#published-in-recent-conferencejournal).
 - **[2026.01.24]** Our survey paper has been accepted to **TMLR 2026**. Congratulations! 🎉🎉🎉
 - **[2025.10.11]** Papers accepted by **NeurIPS 2025** about MLLM token compression have been updated [here](#published-in-recent-conferencejournal). Congratulations! 🎉🎉🎉
