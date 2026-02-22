@@ -22,12 +22,12 @@ If you find our paper or this resource helpful, please consider cite:
 
 ```bibtex
 @article{
-shao2026a,
-title={A Survey of Token Compression for Efficient Multimodal Large Language Models},
-author={Kele Shao and Keda TAO and Kejia Zhang and Sicheng Feng and Mu Cai and Yuzhang Shang and Haoxuan You and Can Qin and Yang Sui and Huan Wang},
-journal={Transactions on Machine Learning Research},
-year={2026},
-}
+  shao2026a,
+  title={A Survey of Token Compression for Efficient Multimodal Large Language Models},
+  author={Kele Shao and Keda TAO and Kejia Zhang and Sicheng Feng and Mu Cai and Yuzhang Shang and Haoxuan You and Can Qin and Yang Sui and Huan Wang},
+  journal={Transactions on Machine Learning Research},
+  year={2026},
+  }
 ```
 
 > [!IMPORTANT]
