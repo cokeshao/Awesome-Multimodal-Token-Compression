@@ -18,7 +18,17 @@
 > 
 > \* Equal Contribution.  † Corresponding Author (wanghuan@westlake.edu.cn).
 
----
+If you find our paper or this resource helpful, please consider cite:
+
+```bibtex
+@article{
+shao2026a,
+title={A Survey of Token Compression for Efficient Multimodal Large Language Models},
+author={Kele Shao and Keda TAO and Kejia Zhang and Sicheng Feng and Mu Cai and Yuzhang Shang and Haoxuan You and Can Qin and Yang Sui and Huan Wang},
+journal={Transactions on Machine Learning Research},
+year={2026},
+}
+```
 
 > [!IMPORTANT]
 > We welcome your help in improving the repository and paper. Please feel free to submit a [pull request](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/pulls) or [contact us](#️-contact) to:
@@ -49,20 +59,6 @@
 </div>
 
 > **Motivation:** **Up:** Image, video, and audio data types can scale in their representation dimensions, leading to a corresponding increase in the number of tokens. **Down:** Top-performing MLLMs cannot address real-world demands, as the number of tokens for multimodal information, especially video, vastly exceeds that of text. Therefore, token compression is crucial to address this limitation.
-
-## 📌 Citation
-
-If you find our paper or this resource helpful, please consider cite:
-
-```bibtex
-@article{
-shao2026a,
-title={A Survey of Token Compression for Efficient Multimodal Large Language Models},
-author={Kele Shao and Keda TAO and Kejia Zhang and Sicheng Feng and Mu Cai and Yuzhang Shang and Haoxuan You and Can Qin and Yang Sui and Huan Wang},
-journal={Transactions on Machine Learning Research},
-year={2026},
-}
-```
 
 ## 📚 Contents
 
