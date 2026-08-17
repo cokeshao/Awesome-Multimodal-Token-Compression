@@ -278,6 +278,6 @@ For questions, suggestions, or collaboration opportunities, please feel free to 
 
 ## ✨ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=cokeshao/Awesome-Multimodal-Token-Compression&type=date&legend=top-left)](https://www.star-history.com/#cokeshao/Awesome-Multimodal-Token-Compression&type=date&legend=top-left)
+[![Star History Chart](https://star-history.dera.page/svg?repos=cokeshao/Awesome-Multimodal-Token-Compression&type=date&legend=top-left)](https://star-history.dera.page/#cokeshao/Awesome-Multimodal-Token-Compression&type=date&legend=top-left)
 
 [**⬆ Back to top**](#awesome-multimodal-token-compression)
